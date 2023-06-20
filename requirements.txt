@@ -1,0 +1,6 @@
+datasets
+bertopic
+transformers
+tqdm
+shap
+nltk
